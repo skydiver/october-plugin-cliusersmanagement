@@ -1,7 +1,7 @@
 # Command Line Users Management
 
 ## Introduction
-This plugin allows administrators to perform backend users tasks from command line
+This plugin allows administrators to perform tasks on backend users (like change password) from command line
 
 \* NOTE: there is no backend gui
 

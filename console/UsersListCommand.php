@@ -29,6 +29,7 @@
                 Lang::get('backend::lang.user.activated'),
                 Lang::get('backend::lang.user.superuser'),
             ];
+
             $this->table($headers, $users);
 
         }

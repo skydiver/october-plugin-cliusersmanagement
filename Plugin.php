@@ -17,7 +17,8 @@
         }
 
         public function register() {
-            $this->registerConsoleCommand('users:list', 'Martin\CliUsersManagement\Console\UsersListCommand');
+            $this->registerConsoleCommand('users:list'           , 'Martin\CliUsersManagement\Console\UsersListCommand');
+            $this->registerConsoleCommand('users:change-password', 'Martin\CliUsersManagement\Console\ChangePasswordCommand');
         }
 
     }

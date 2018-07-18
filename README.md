@@ -15,8 +15,12 @@ In your OctoberCMS backend, go to Updates > Install plugins and search for "mart
 
 List backend users
 
-```php artisan users:list```
+```
+php artisan users:list
+```
 
 Change backend user password
 
-```php artisan users:change-password```
+```
+php artisan users:change-password
+```

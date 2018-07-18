@@ -4,7 +4,7 @@
 ## Introduction
 This plugin allows administrators to perform tasks on backend users (like change password) from command line
 
-> * NOTE: there is no backend gui
+> **NOTE:** there is no backend gui
 
 
 ## Installation
